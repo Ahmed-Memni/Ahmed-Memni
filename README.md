@@ -4,6 +4,8 @@
 ## 🚀 About Me  
 I am passionate about **Linux development, embedded systems, and Docker**. I enjoy working on low-level programming, optimizing system performance, and exploring new technologies in software and hardware integration.  
 
+Currently, I’m **relearning web development from the ground up**, refining my frontend and backend skills to build modern, responsive applications. Once I’m solid in web dev, I plan to **dive into the world of Artificial Intelligence** and explore how it can integrate with embedded systems and web technologies.
+
 ---
 
 ## 🛠️ My Skills  
@@ -46,4 +48,3 @@ I am passionate about **Linux development, embedded systems, and Docker**. I enj
 I **love debugging more than coding**, even if it takes hours! My code lines might not always look structured, but I’m always **working on making them better**. When a project excites me, I can work **day and night non-stop** until I get it just right!  
 
 ---
-
