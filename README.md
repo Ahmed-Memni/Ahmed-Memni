@@ -27,6 +27,7 @@ Currently, I’m **relearning web development from the ground up**, refining my 
 
 ### 🗄️ Databases  
 - SQL  
+- MongoDB
 
 ### 🏗️ Software Development & Architecture  
 - UML  
