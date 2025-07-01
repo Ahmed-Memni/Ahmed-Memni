@@ -23,7 +23,8 @@ Currently, I’m **relearning web development from the ground up**, refining my 
 - CSS Flexbox  
 - Bootstrap (Framework)  
 - Angular  
-- JavaFX  
+- JavaFX
+- React
 
 ### 🗄️ Databases  
 - SQL  
