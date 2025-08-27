@@ -1,52 +1,66 @@
-# 👋 Hi, I'm Ahmed Memeni  
-🎓 Engineering Student | 🖥️ Embedded Systems & Software Development Enthusiast  
+👋 Hi, I'm Ahmed Memeni
 
-## 🚀 About Me  
-I am passionate about **Linux development, embedded systems, and Docker**. I enjoy working on low-level programming, optimizing system performance, and exploring new technologies in software and hardware integration.  
+🎓 Engineering Student | 🤖 AI & Software Development Enthusiast
 
-Currently, I’m **relearning web development from the ground up**, refining my frontend and backend skills to build modern, responsive applications. Once I’m solid in web dev, I plan to **dive into the world of Artificial Intelligence** and explore how it can integrate with embedded systems and web technologies.
+🚀 About Me
 
----
+I’m passionate about Artificial Intelligence, Linux development, embedded systems, and modern web technologies. Over the past year, I’ve shifted my focus towards AI and machine learning, while continuing to strengthen my web development and backend skills.
 
-## 🛠️ My Skills  
+Currently, I’m learning machine learning and exploring how AI can integrate with web applications, embedded systems, and mobile apps. I also enjoy Dockerizing projects, working with APIs, and building efficient systems.
 
-### 📌 Programming Languages  
-- C  
-- C++  
-- Python  
-- Java  
-- JavaScript  
+🛠️ My Skills
+📌 Programming Languages
 
-### 🖥️ Web & Frontend Development  
-- HTML  
-- CSS (Cascading Style Sheets)  
-- CSS Flexbox  
-- Bootstrap (Framework)  
-- Angular  
-- JavaFX
-- React
+Python (Pandas, NumPy, ML libraries)
 
-### 🗄️ Databases  
-- SQL  
-- MongoDB
+C / C++
 
-### 🏗️ Software Development & Architecture  
-- UML  
-- Algorithms  
+Java / JavaScript
 
-### ⚙️ System & Kernel Development  
-- Linux Development  
-- Docker Products  
+🖥️ Web & Frontend Development
 
----
+HTML, CSS, CSS Flexbox, Bootstrap
 
-## 📬 Reach Me  
-- **LinkedIn:** [Ahmed Memeni](https://www.linkedin.com/in/ahmed-memni-748630290/)  
-- **Email:** memniahmed20@gmail.com  
+React, Next.js, Angular
 
----
+FastAPI (Backend Development)
 
-## 🎉 Fun Fact  
-I **love debugging more than coding**, even if it takes hours! My code lines might not always look structured, but I’m always **working on making them better**. When a project excites me, I can work **day and night non-stop** until I get it just right!  
+📱 Mobile & Desktop
 
----
+Android Studio / Java for Android apps
+
+JavaFX for desktop applications
+
+🗄️ Databases
+
+SQL
+
+MongoDB
+
+🏗️ Software Development & Architecture
+
+UML
+
+Algorithms
+
+⚙️ System & Kernel Development
+
+Linux Development
+
+Docker Products
+
+🤖 AI & Machine Learning
+
+Machine Learning (currently learning)
+
+LangChain
+
+📬 Reach Me
+
+LinkedIn: Ahmed Memeni
+
+Email: memniahmed20@gmail.com
+
+🎉 Fun Fact
+
+I love debugging more than coding—I’ll spend hours perfecting a project until it’s just right! When something excites me, I can work day and night non-stop.
